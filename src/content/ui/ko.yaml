@@ -13,7 +13,6 @@ Donate: 기부
 Download: 다운로드
 Accessibility: 접근성
 Search: 검색
-Filter by keyword: 키워드로 필터링
 Jump To: 이동
 Resources: 자료
 Information: 정보
@@ -45,7 +44,6 @@ Show Code: 코드 보기
 Donate to p5.js: p5.js에 기부하기
 Donate to Processing Foundation: Processing Foundation에 기부하기
 Download p5.js: p5.js 다운로드
-No Results: 검색 결과가 없습니다.
 No alt text: 대체 텍스트 없음
 briefPageDescriptions:
   Reference: p5.js 코드의 각 부분에 대한 쉬운 설명을 찾아보세요.
